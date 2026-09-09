@@ -1,5 +1,5 @@
 ---
-name: codex-na-pratica-prompts
+name: hl-codex-na-pratica-prompts
 description: "Selecionar e aplicar os prompts migrados de prompts-claude-code-na-pratica quando o usuário pedir um fluxo coberto por esta coleção. Não usar como substituto de uma skill mais específica já disponível."
 ---
 

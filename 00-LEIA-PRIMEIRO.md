@@ -2,7 +2,7 @@
 
 ## Como usar estes prompts
 
-Cada prompt foi criado para funcionar com a stack da Bravy:
+Cada prompt foi criado para funcionar com a stack da HL:
 
 - **Frontend:** Next.js (App Router) → deploy na **Vercel**
 - **Backend:** Node.js (Express) → deploy no **Coolify** (Hostinger)
